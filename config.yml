@@ -1,0 +1,6 @@
+ssh_config:
+  hostname: your remote server host
+  username: your remote server user
+  key_filename: your remote ssh key file
+
+download: your download path
